@@ -6,8 +6,8 @@ Special Thank to Sir Tin Htut Aung (Founder and Teacher of dataland technology).
 This is my memory of web dev foundation journey at dataland technology.
 
 # I learned 
-I learned 
-  ## HTML
+## I learned 
+  ### HTML
   ## CSS
   ## Javascript
   ## Bootstrap
