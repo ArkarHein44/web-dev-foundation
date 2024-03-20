@@ -1,0 +1,51 @@
+=>github
+
+
+=One times
+after git install
+git
+git --version ( git version 2.39.2 )
+
+git config --global user.name "Arkar Hein"
+git config user.name
+
+git config user.email "arkerhein44@gmail.com"
+git config user.email
+
+
+
+
+
+
+
+=>SSH ( Secure Shell)
+ssh-keygen
+
+ssh -T git@github.com
+
+=>github
+
+
+(1project 1time)
+git init
+git remote add origin "https://github.com/ArkarHein44/pttsoftware1.git"
+
+(as to you)
+git status
+git add -A      (git add *)
+git status
+
+git commit -m "my first project"
+git push -u origin master
+
+=> git clone repo
+git clone git@github.com:ArkarHein44/pttsoftware1.git
+
+=> git pull
+create folder
+get init
+git remoe add origin git@github.com:ArkarHein44/pttsoftware1.git
+git pull origin main
+
+-------------------------------------------------------
+12FN
